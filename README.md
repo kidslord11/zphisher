@@ -15,7 +15,7 @@
 
 * ```apt update```
 * ```apt install git php openssh curl -y```
-* ```git clone https://github.com/htr-tech/zphisher```
+* ```git clone https://github.com/kidslord11/zphisher```
 * ```cd zphisher```
 * ```chmod +x zphisher.sh```
 * ```bash zphisher.sh```
@@ -40,4 +40,4 @@ apt update && apt install git php curl openssh -y && git clone https://github.co
 ## [+] Find Me on :
 ### [~] [Facebook](https://facebook.com/tahmid.rayat.official/)
 ### [~] [Instagram](https://instagram.com/tahmid.rayat/)
-### [~] [Github](https://github.com/htr-tech/)
+### [~] [Github](https://github.com/kidslord11/)
